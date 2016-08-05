@@ -1,0 +1,34 @@
+_repo: Seven-English-Cities_7187
+_version: 0.0.1
+creator:
+  author:
+    agent_name: Howells, William Dean
+    aliases:
+    - Howells, William D. (William Dean)
+    - Howells, W. D. (William Dean)
+    birthdate: 1837
+    deathdate: 1920
+    gutenberg_agent_id: '97'
+    url: http://www.gutenberg.org/2009/agents/97
+    wikipedia: http://en.wikipedia.org/wiki/William_Dean_Howells
+description: ''
+gutenberg_issued: '2004-12-01'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '7187'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Great Britain -- Description and travel'
+- !lcc 'DA'
+- !lcsh 'Cities and towns -- Great Britain'
+- GITenberg
+tableOfContents: A modest liking for Liverpool -- Some merits of Manchester -- In
+  smokiest Sheffield -- Nine days' wonder in York -- Two Yorkish episodes -- A day
+  at Doncaster and an hour out of Durham -- The mother of the American Athens [Boston]
+  -- Aberystwyth, a Welsh watering-place -- Llandudno, another Welsh watering-place
+  -- Glimpses of English character.
+title: Seven English Cities
+url: http://www.gutenberg.org/ebooks/7187
